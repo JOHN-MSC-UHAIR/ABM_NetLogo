@@ -1,2 +1,2 @@
 # ABM_NetLogo
-Artificial Life with Robotics Models
+Artificial Life with Robotics Models Using NetLogo
