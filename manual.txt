@@ -1,5 +1,7 @@
-Artificial Life with Robotics System Exploring
-Cellular Automata
-Agent based Modelling 
-Social Systems
-Evolutionary Algorithms
+Artificial Life with Robotics 
+Module Contents:  
+1. Introduction to Artificial Systems
+2. Cellular Automata
+3. Agent based Modelling 
+4. Social Systems
+5. Evolutionary Algorithms
